@@ -22,19 +22,13 @@
 - **HTML, CSS**: Diseño y desarrollo de sitios web responsivos.
 - **Diseño UI/UX**: Enfocado en la experiencia de usuario con interfaces atractivas.
 
-### 🚀 **Proyectos Destacados:**
-
-1. **[Aplicación de tienda online](#)**: Una aplicación móvil de comercio electrónico desarrollada en Flutter, consumiendo una API segura con NestJS y JWT.
-2. **[Sistema de gestión de tareas](#)**: Backend en Spring Boot para la gestión de tareas, con autenticación y base de datos relacional.
-3. **[Portafolio personal](#)**: Mi sitio web personal, desarrollado con HTML, CSS y JavaScript, optimizado para dispositivos móviles.
-
 ### 🌱 **En constante aprendizaje:**
-Siempre busco aprender más sobre tecnologías emergentes y mejores prácticas en desarrollo. Actualmente, estoy profundizando en **NestJS** y **microservicios**.
+Siempre busco aprender más sobre tecnologías emergentes y mejores prácticas en desarrollo. Actualmente, estoy profundizando en **SpringBoot, NestJS** y **microservicios**.
 
 ### 📫 **Contáctame:**
-- **Email**: [alejandro.macedo@example.com](mailto:alejandro.macedo@example.com)
-- **LinkedIn**: [Alejandro Macedo](#)
-- **GitHub**: [AlejandroMP](#)
+- **Email**: [macedoalejandro12@gmail.com](mailto:alejandro.macedo@example.com)
+- **LinkedIn**: [Alejandro Macedo Paredes](#)
+- **GitHub**: [alejandromacedopa](#)
 
 ### ⚡ **Datos curiosos:**
 - Me encanta el deporte, especialmente el fútbol y el gimnasio. 🏋️‍♂️⚽
