@@ -5,7 +5,7 @@
 
 ### 🌟 Sobre mí:
 - 🧑‍💻 **Nombre**: Alejandro Macedo Paredes
-- 🎂 **Edad**: 22 años
+- 🎂 **Edad**: 23 años
 - 💻 **Tecnologías**: Java, Spring Boot, Flutter, Dart, HTML, CSS
 - 🎨 **Diseño Web**: Responsive Design, UI/UX
 - 🏋️‍♂️ **Intereses**: La programación, el deporte y el aprendizaje constante de nuevas tecnologías
