@@ -23,7 +23,7 @@
     <a href="https://github.com/alejandromacedopa">
       <img src="https://img.shields.io/badge/GitHub-alejandromacedopa-000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="AQUI_TU_LINKEDIN">
+    <a href="https://www.linkedin.com/in/tu-usuario-linkedin">
       <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
@@ -62,8 +62,8 @@ Disfruto trabajar en equipo, documentar bien lo que hago y entregar soluciones q
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Diseño de **APIs RESTful**
-- Autenticación con **JWT** y manejo de roles
+- Diseño de **APIs RESTful**  
+- Autenticación con **JWT** y manejo de roles  
 - Integración con **bases de datos relacionales**
 
 ### 📱 Mobile
@@ -71,9 +71,9 @@ Disfruto trabajar en equipo, documentar bien lo que hago y entregar soluciones q
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-- Apps híbridas para **Android** (y preparadas para iOS)
-- Consumo de APIs y manejo de estados
-- Interfaces personalizadas y adaptadas a diseño moderno
+- Apps híbridas para **Android** (y preparadas para iOS)  
+- Consumo de APIs y manejo de estados  
+- Interfaces personalizadas y adaptadas a diseño moderno  
 
 ### 🌐 Frontend / Web
 
@@ -81,9 +81,9 @@ Disfruto trabajar en equipo, documentar bien lo que hago y entregar soluciones q
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-- **Responsive Design** y maquetación limpia
-- Enfoque en **UI/UX**
-- Buenas prácticas de semántica y accesibilidad
+- **Responsive Design** y maquetación limpia  
+- Enfoque en **UI/UX**  
+- Buenas prácticas de semántica y accesibilidad  
 
 ### ⚙️ Herramientas & Otros
 
@@ -159,7 +159,7 @@ Disfruto trabajar en equipo, documentar bien lo que hago y entregar soluciones q
 Si tienes una idea, proyecto o simplemente quieres conversar de tecnología:
 
 - 📧 **Email:** [macedoalejandro12@gmail.com](mailto:macedoalejandro12@gmail.com)  
-- 💼 **LinkedIn:** [Alejandro Macedo](AQUI_TU_LINKEDIN)  
+- 💼 **LinkedIn:** [Alejandro Macedo](https://www.linkedin.com/in/tu-usuario-linkedin)  
 - 💻 **GitHub:** [alejandromacedopa](https://github.com/alejandromacedopa)
 
 ---
