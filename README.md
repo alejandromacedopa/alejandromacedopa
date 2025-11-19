@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- Banner principal -->
-  <img src="AQUI_URL_DE_TU_BANNER" alt="Alejandro Macedo – Software Developer" style="max-width: 100%; border-radius: 12px;" />
+  <img src="https://i.ibb.co/TBg6Z6gw/bannerdev.png" alt="Alejandro Macedo – Software Developer" style="max-width: 100%; border-radius: 12px;" />
 
   <br><br>
 
