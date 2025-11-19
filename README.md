@@ -1,9 +1,31 @@
-# 🚀 Alejandro Macedo Paredes
+<!-- BANNER -->
+<p align="center">
+  <img src="AQUI_VA_LA_URL_DE_TU_BANNER" alt="Alejandro Macedo - Software Developer" />
+</p>
 
-### 💻 Desarrollador de Software · Java · Flutter · Web
+<!-- TITULO PRINCIPAL -->
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#4f46e5;">Alejandro Macedo Paredes</span></h1>
 
-Soy un desarrollador apasionado por crear **soluciones reales** con código limpio, buen rendimiento y un **diseño moderno**.  
-Me encanta transformar ideas en aplicaciones web y móviles que se sientan **rápidas, intuitivas y profesionales**.
+<p align="center">
+  💻 Desarrollador de Software · Java · Flutter · Web  
+</p>
+
+<p align="center">
+  <em>Me gusta convertir ideas en soluciones funcionales, rápidas y con un diseño moderno.</em>
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <a href="mailto:macedoalejandro12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://github.com/alejandromacedopa">
+    <img src="https://img.shields.io/badge/GitHub-alejandromacedopa-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Macedo-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -12,49 +34,65 @@ Me encanta transformar ideas en aplicaciones web y móviles que se sientan **rá
 - 🧾 **Nombre:** Alejandro Macedo Paredes  
 - 🎂 **Edad:** 23 años  
 - 🌍 **Ubicación:** Perú  
-- 💡 **Me mueve:** resolver problemas con tecnología, aprender algo nuevo cada día y seguir mejorando como desarrollador.
+- 💡 **Lo que me mueve:** resolver problemas con tecnología, aprender algo nuevo cada día y crecer como desarrollador.
 
 ---
 
-## 🛠️ Stack & Tecnologías
+## 🛠️ Stack Tecnológico
 
-### 🔧 Backend (Java)
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-- `Java` · `Spring Boot` · `Spring Security`  
-- Diseño de **APIs RESTful**  
-- Autenticación con **JWT**  
-- Integración con **MySQL**
+      <h3>🔧 Backend</h3>
 
-### 📱 Desarrollo móvil
+      - `Java` · `Spring Boot` · `Spring Security`  
+      - Diseño de **APIs RESTful**  
+      - Autenticación con **JWT**  
+      - Integración con **MySQL**
 
-- `Flutter` · `Dart`  
-- Apps híbridas para **iOS y Android**  
-- Consumo de APIs · Pantallas y componentes **UI personalizados**
+    </td>
+    <td valign="top" width="33%">
 
-### 🌐 Frontend y Web
+      <h3>📱 Mobile</h3>
 
-- `HTML` · `CSS`  
-- **Responsive Design**  
-- Enfoque en **UI/UX** y buenas prácticas de semántica y accesibilidad
+      - `Flutter` · `Dart`  
+      - Apps híbridas para **iOS y Android**  
+      - Consumo de APIs  
+      - Interfaces y componentes **UI personalizados**
+
+    </td>
+    <td valign="top" width="33%">
+
+      <h3>🌐 Frontend / Web</h3>
+
+      - `HTML` · `CSS`  
+      - **Responsive Design**  
+      - Enfoque en **UI/UX**  
+      - Semántica y accesibilidad
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌱 Lo que estoy aprendiendo ahora
+## 🌱 En constante aprendizaje
 
-Siempre estoy mejorando mi nivel técnico. Actualmente profundizo en:
+Estoy profundizando en:
 
-- 🧩 **Arquitectura de microservicios**
-- 🛡️ **NestJS** y seguridad avanzada
-- 🧼 **Clean Code & Clean Architecture** para escribir código mantenible y escalable
+- 🧩 **Arquitectura de microservicios**  
+- 🛡️ **NestJS** y seguridad avanzada  
+- 🧼 **Clean Code & Clean Architecture** para escribir código mantenible, legible y escalable  
 
 ---
 
 ## 🤝 ¿Cómo puedo aportar a tu proyecto?
 
-- Desarrollo de **APIs sólidas** en Java con Spring Boot  
+- Desarrollo de **APIs sólidas y seguras** con Java + Spring Boot  
 - Creación de **apps móviles en Flutter** listas para producción  
-- Maquetación de **interfaces modernas y responsivas** para web  
-- Colaboración en equipos ágiles, comunicación clara y enfoque en resultados
+- Construcción de **interfaces modernas y responsivas** para web  
+- Trabajo en equipo, buena comunicación y enfoque en resultados
 
 ---
 
@@ -68,13 +106,13 @@ Siempre estoy mejorando mi nivel técnico. Actualmente profundizo en:
 
 ## ⚡ Un poco más de mí
 
-- 🏋️‍♂️ Fan del gimnasio y el fútbol  
+- 🏋️‍♂️ Me gusta el gimnasio y el fútbol  
 - 🤓 Siempre probando nuevas tecnologías, frameworks y herramientas  
-- 🤝 Me gusta trabajar en equipo, compartir lo que sé y aprender de otros
+- 🤝 Disfruto compartir conocimiento y aprender de otros desarrolladores  
 
 ---
 
 ## 📌 Repositorios destacados
 
 > En mi perfil encontrarás proyectos web, móviles y APIs construidos con **Java**, **Spring Boot**, **Flutter** y buenas prácticas de arquitectura.  
-> Estoy construyendo un portafolio cada vez más sólido, enfocado en soluciones limpias, escalables y profesionales.
+> Sigo construyendo un portafolio cada vez más sólido, enfocado en soluciones limpias, escalables y profesionales.
