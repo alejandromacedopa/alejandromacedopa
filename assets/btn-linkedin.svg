@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" width="300" height="64" role="img" aria-labelledby="t d">
+<title id="t">LinkedIn</title><desc id="d">Botón de contacto: LinkedIn</desc>
+<style>.sans{font-family:'Segoe UI','SF Pro Display',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="bb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141833"/><stop offset="1" stop-color="#0f1222"/></linearGradient><linearGradient id="bs" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0A66C2"/><stop offset="1" stop-color="#bb9af7"/></linearGradient></defs>
+
+<rect x=".75" y=".75" width="298.5" height="62.5" rx="32" fill="url(#bb)" stroke="url(#bs)" stroke-width="1.5"/>
+<circle cx="34" cy="32" r="20" fill="#0A66C2" fill-opacity=".14"/>
+<rect x="24.5" y="22.5" width="19" height="19" rx="4" fill="#0A66C2"/><text class="sans" x="34" y="37.5" font-size="12.5" font-weight="800" fill="#fff" text-anchor="middle">in</text>
+<text class="sans" x="68" y="29" font-size="16.5" font-weight="700" fill="#c0caf5">LinkedIn</text>
+<text class="mono" x="68" y="47" font-size="11.5" fill="#8b94bd">Alejandro Macedo</text>
+<g transform="translate(258 24)" fill="none" stroke="#0A66C2" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M1 13L13 1M4 1h9v9"/></g>
+</svg>

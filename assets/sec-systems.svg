@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 60" width="1000" height="60" role="img" aria-labelledby="t d">
+<title id="t">05 · Sistemas a medida y SaaS</title><desc id="d">Encabezado de sección: Sistemas a medida y SaaS</desc>
+<style>.sans{font-family:'Segoe UI','SF Pro Display',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.pulse{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.35}}</style>
+<defs><linearGradient id="ac" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient></defs>
+
+<rect x=".5" y=".5" width="999" height="59" rx="14" fill="#0f1222" stroke="#262a45"/>
+<rect x="18" y="16" width="4" height="28" rx="2" fill="url(#ac)"/>
+<text class="mono" x="38" y="37" font-size="15" font-weight="700" fill="#7aa2f7">05</text>
+<text class="sans" x="72" y="38" font-size="21" font-weight="700" fill="#c0caf5" letter-spacing=".2">Sistemas a medida y SaaS</text>
+<rect x="889" y="15" width="87" height="30" rx="15" fill="#141833" stroke="#262a45"/>
+<circle class="pulse" cx="904" cy="30" r="3.5" fill="#9ece6a"/>
+<text class="mono" x="916" y="35" font-size="12.5" fill="#8b94bd">private/</text>
+
+</svg>

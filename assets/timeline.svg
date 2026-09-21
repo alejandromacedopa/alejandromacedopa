@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-labelledby="t d">
+<title id="t">Mi trayectoria</title><desc id="d">Línea de tiempo 2022–2026: Spring Boot y Angular, Spring Security, Flutter y NestJS, full-stack con Vue y Astro, y PostgreSQL con Prisma en sistemas SaaS.</desc>
+<style>.sans{font-family:'Segoe UI','SF Pro Display',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.ring{transform-box:fill-box;transform-origin:center;animation:rg 2.4s ease-out infinite}@keyframes rg{0%{transform:scale(1);opacity:.7}100%{transform:scale(3.2);opacity:0}}
+.draw{stroke-dasharray:920;stroke-dashoffset:920;animation:dr 2.2s ease forwards}@keyframes dr{to{stroke-dashoffset:0}}</style>
+<defs><linearGradient id="tl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient></defs>
+<rect x=".5" y=".5" width="999" height="249" rx="18" fill="#0b0d17" stroke="#262a45"/>
+<line x1="56" y1="70" x2="944" y2="70" stroke="#262a45" stroke-width="3" stroke-linecap="round"/>
+<line class="draw" x1="56" y1="70" x2="944" y2="70" stroke="url(#tl)" stroke-width="3" stroke-linecap="round"/>
+<g>
+  
+  <text class="mono" x="116" y="44" font-size="20" font-weight="800" fill="#c0caf5" text-anchor="middle">2022</text>
+  <circle cx="116" cy="70" r="9" fill="#0b0d17" stroke="#7aa2f7" stroke-width="3"/>
+  <circle cx="116" cy="70" r="3.5" fill="#7aa2f7"/>
+  <path d="M116 80V94" stroke="#262a45" stroke-width="2"/>
+  <rect x="28" y="96" width="176" height="88" rx="14" fill="#0f1222" stroke="#262a45" stroke-opacity="1"/>
+  <text class="sans" x="116" y="126" font-size="16" font-weight="700" fill="#c0caf5" text-anchor="middle">YanaForum</text>
+  <text class="sans" x="116" y="150" font-size="12.5" fill="#8b94bd" text-anchor="middle">Spring Boot (API)</text><text class="sans" x="116" y="172" font-size="12.5" fill="#8b94bd" text-anchor="middle">Angular (web)</text>
+  
+</g>
+<g>
+  
+  <text class="mono" x="308" y="44" font-size="20" font-weight="800" fill="#c0caf5" text-anchor="middle">2023</text>
+  <circle cx="308" cy="70" r="9" fill="#0b0d17" stroke="#7aa2f7" stroke-width="3"/>
+  <circle cx="308" cy="70" r="3.5" fill="#7aa2f7"/>
+  <path d="M308 80V94" stroke="#262a45" stroke-width="2"/>
+  <rect x="220" y="96" width="176" height="88" rx="14" fill="#0f1222" stroke="#262a45" stroke-opacity="1"/>
+  <text class="sans" x="308" y="126" font-size="16" font-weight="700" fill="#c0caf5" text-anchor="middle">Seguridad</text>
+  <text class="sans" x="308" y="150" font-size="12.5" fill="#8b94bd" text-anchor="middle">Spring Security + CRUD</text><text class="sans" x="308" y="172" font-size="12.5" fill="#8b94bd" text-anchor="middle">E-commerce AUNatural</text>
+  
+</g>
+<g>
+  
+  <text class="mono" x="500" y="44" font-size="20" font-weight="800" fill="#c0caf5" text-anchor="middle">2024</text>
+  <circle cx="500" cy="70" r="9" fill="#0b0d17" stroke="#7aa2f7" stroke-width="3"/>
+  <circle cx="500" cy="70" r="3.5" fill="#7aa2f7"/>
+  <path d="M500 80V94" stroke="#262a45" stroke-width="2"/>
+  <rect x="412" y="96" width="176" height="110" rx="14" fill="#0f1222" stroke="#262a45" stroke-opacity="1"/>
+  <text class="sans" x="500" y="126" font-size="16" font-weight="700" fill="#c0caf5" text-anchor="middle">APIs y móvil</text>
+  <text class="sans" x="500" y="150" font-size="12.5" fill="#8b94bd" text-anchor="middle">API REST minimarket</text><text class="sans" x="500" y="172" font-size="12.5" fill="#8b94bd" text-anchor="middle">Flutter + BLoC</text><text class="sans" x="500" y="194" font-size="12.5" fill="#8b94bd" text-anchor="middle">NestJS + JWT</text>
+  
+</g>
+<g>
+  
+  <text class="mono" x="692" y="44" font-size="20" font-weight="800" fill="#c0caf5" text-anchor="middle">2025</text>
+  <circle cx="692" cy="70" r="9" fill="#0b0d17" stroke="#7aa2f7" stroke-width="3"/>
+  <circle cx="692" cy="70" r="3.5" fill="#7aa2f7"/>
+  <path d="M692 80V94" stroke="#262a45" stroke-width="2"/>
+  <rect x="604" y="96" width="176" height="110" rx="14" fill="#0f1222" stroke="#262a45" stroke-opacity="1"/>
+  <text class="sans" x="692" y="126" font-size="16" font-weight="700" fill="#c0caf5" text-anchor="middle">Full-stack</text>
+  <text class="sans" x="692" y="150" font-size="12.5" fill="#8b94bd" text-anchor="middle">NestJS + Vue</text><text class="sans" x="692" y="172" font-size="12.5" fill="#8b94bd" text-anchor="middle">Landing pages Astro</text><text class="sans" x="692" y="194" font-size="12.5" fill="#8b94bd" text-anchor="middle">Inversiones Seguras</text>
+  
+</g>
+<g>
+  <circle class="ring" cx="884" cy="70" r="8" fill="#9ece6a"/>
+  <text class="mono" x="884" y="44" font-size="20" font-weight="800" fill="#9ece6a" text-anchor="middle">2026</text>
+  <circle cx="884" cy="70" r="9" fill="#0b0d17" stroke="#9ece6a" stroke-width="3"/>
+  <circle cx="884" cy="70" r="3.5" fill="#9ece6a"/>
+  <path d="M884 80V94" stroke="#262a45" stroke-width="2"/>
+  <rect x="796" y="96" width="176" height="110" rx="14" fill="#0f1222" stroke="#9ece6a" stroke-opacity="0.55"/>
+  <text class="sans" x="884" y="126" font-size="16" font-weight="700" fill="#c0caf5" text-anchor="middle">PostgreSQL</text>
+  <text class="sans" x="884" y="150" font-size="12.5" fill="#8b94bd" text-anchor="middle">Prisma · multi-tenant</text><text class="sans" x="884" y="172" font-size="12.5" fill="#8b94bd" text-anchor="middle">POS, SaaS y e-commerce</text><text class="sans" x="884" y="194" font-size="12.5" fill="#8b94bd" text-anchor="middle">Clean Architecture</text>
+  <rect x="858" y="85" width="52" height="20" rx="10" fill="#9ece6a"/><text class="mono" x="884" y="99" font-size="10" font-weight="800" fill="#0b0d17" text-anchor="middle" letter-spacing=".8">AHORA</text>
+</g>
+</svg>

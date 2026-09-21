@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-labelledby="t d">
+<title id="t">Alejandro Macedo — pie de página</title><desc id="d">Pie de página animado con olas.</desc>
+<style>.sans{font-family:'Segoe UI','SF Pro Display',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.wa{animation:wv 14s linear infinite}.wb{animation:wv 22s linear infinite reverse}@keyframes wv{to{transform:translateX(-1000px)}}</style>
+<defs><linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient><linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#bb9af7"/><stop offset="1" stop-color="#7dcfff"/></linearGradient><linearGradient id="bgf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151833"/><stop offset="1" stop-color="#0b0d17"/></linearGradient><clipPath id="fc"><rect width="1000" height="170" rx="22"/></clipPath></defs>
+
+<g clip-path="url(#fc)">
+  <rect width="1000" height="170" fill="url(#bgf)"/>
+  <path class="wb" d="M0 118 Q 125 92 250 118 T 500 118 T 750 118 T 1000 118 T 1250 118 T 1500 118 T 1750 118 T 2000 118 V170 H0 Z" fill="url(#w2)" fill-opacity=".4"/>
+  <path class="wa" d="M0 132 Q 125 102 250 132 T 500 132 T 750 132 T 1000 132 T 1250 132 T 1500 132 T 1750 132 T 2000 132 V170 H0 Z" fill="url(#w1)" fill-opacity=".8"/>
+</g>
+<rect x=".5" y=".5" width="999" height="169" rx="22" fill="none" stroke="#2a2e4a"/>
+<text class="sans" x="500" y="66" font-size="22" font-weight="700" fill="#c0caf5" text-anchor="middle">Construyendo software, un commit a la vez.</text>
+<text class="mono" x="500" y="92" font-size="13" fill="#8b94bd" text-anchor="middle">Alejandro Macedo Paredes · Perú · 2026</text>
+
+</svg>

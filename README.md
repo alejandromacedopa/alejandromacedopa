@@ -1,288 +1,185 @@
-<!-- ===== HEADER ===== -->
 <div align="center">
 
-<img width="100%" alt="Alejandro Macedo" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Alejandro%20Macedo&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20Java%20%C2%B7%20Flutter%20%C2%B7%20Web&descSize=18&descAlignY=58" />
-
-<a href="https://github.com/alejandromacedopa">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&height=45&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Alejandro+Macedo+Paredes;APIs+robustas+con+Java+%2B+Spring+Boot;Backends+modernos+con+NestJS+%2B+TypeScript;Apps+m%C3%B3viles+con+Flutter;Webs+con+Angular%2C+Vue+y+Astro" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Alejandro Macedo — Software Developer" />
 
 <p>
-  Estudiante de <b>Ingeniería de Sistemas</b> enfocado en construir<br/>
-  <b>APIs sólidas</b> · <b>apps móviles modernas</b> · <b>experiencias web profesionales</b>
+  Estudiante de <b>Ingeniería de Sistemas</b> en Perú, enfocado en construir<br/>
+  <b>APIs sólidas</b> · <b>sistemas SaaS y a medida</b> · <b>experiencias web profesionales</b>
 </p>
 
-<p>
-  <a href="mailto:macedoalejandro12@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contactar-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1b27" />
-  </a>
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin"> <!-- ⚠️ CAMBIA por tu usuario real -->
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alejandro%20Macedo-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1b27" />
-  </a>
-  <a href="https://github.com/alejandromacedopa">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-alejandromacedopa-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
-  </a>
-</p>
+<a href="mailto:macedoalejandro12@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/alejandromacedop"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://github.com/alejandromacedopa"><img src="assets/btn-github.svg" height="44" alt="GitHub" /></a>
 
 <p>
-  <img alt="Repositorios" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Falejandromacedopa&query=%24.public_repos&label=Repositorios&logo=github&style=flat-square&labelColor=1a1b27&color=7aa2f7" />
-  <img alt="Seguidores" src="https://img.shields.io/github/followers/alejandromacedopa?label=Seguidores&logo=github&style=flat-square&labelColor=1a1b27&color=bb9af7" />
-  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=alejandromacedopa&label=Visitas&color=7dcfff&style=flat-square&labelColor=1a1b27" />
+  <img alt="Repositorios" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Falejandromacedopa&query=%24.public_repos&label=Repositorios%20p%C3%BAblicos&logo=github&style=flat-square&labelColor=0f1222&color=7aa2f7" />
+  <img alt="Seguidores" src="https://img.shields.io/github/followers/alejandromacedopa?label=Seguidores&logo=github&style=flat-square&labelColor=0f1222&color=bb9af7" />
+  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=alejandromacedopa&label=Visitas&color=7dcfff&style=flat-square&labelColor=0f1222" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- ===== SOBRE MÍ ===== -->
-## 👨‍💻 Sobre mí
+<!-- 01 · SOBRE MÍ -->
+<img src="assets/sec-about.svg" width="100%" alt="01 · Sobre mí" />
 
 ```js
 const alejandro = {
   nombre:         "Alejandro Macedo Paredes",
   carrera:        "Ingeniería de Sistemas",
-  edad:           23,
+  edad:           24,
   ubicacion:      "Perú 🇵🇪",
   idiomas:        ["Español (nativo)", "Inglés (intermedio)"],
-  backend:        ["Java · Spring Boot", "TypeScript · NestJS"],
+  backend:        ["TypeScript · NestJS", "Java · Spring Boot"],
+  baseDeDatos:    ["PostgreSQL (principal)", "MySQL"],
+  orm:            ["Prisma", "TypeORM", "JPA"],
+  web:            ["Angular", "Next.js", "Astro", "Vue"],
   mobile:         ["Flutter · Dart"],
-  web:            ["Angular", "Vue", "Astro"],
   aprendiendo:    ["Microservicios", "Clean Architecture", "Seguridad avanzada"],
   motivacion:     "Resolver problemas con tecnología y aprender algo nuevo cada día",
   fueraDelCodigo: ["🏋️ Gimnasio", "⚽ Fútbol"],
 };
 ```
 
-> 💡 Me gusta combinar **buenas prácticas**, **rendimiento** y **diseño limpio**.
+> Me gusta combinar **buenas prácticas**, **rendimiento** y **diseño limpio**.
 > Disfruto trabajar en equipo, documentar bien lo que hago y entregar soluciones que de verdad se puedan usar.
 
 <br/>
 
-<!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Stack
+<!-- 02 · STACK -->
+<img src="assets/sec-stack.svg" width="100%" alt="02 · Stack tecnológico" />
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="170"><b>🧬 Lenguajes</b></td>
-    <td><img alt="Lenguajes" src="https://skillicons.dev/icons?i=java,dart,ts,js" /></td>
+    <td align="right" width="190"><b>Lenguajes</b></td>
+    <td><img alt="TypeScript, Java, Dart, JavaScript" src="https://skillicons.dev/icons?i=ts,java,dart,js" /></td>
   </tr>
   <tr>
-    <td align="center"><b>🔧 Backend</b></td>
-    <td><img alt="Backend" src="https://skillicons.dev/icons?i=spring,nestjs,mysql" /></td>
+    <td align="right"><b>Backend</b></td>
+    <td><img alt="NestJS, Spring, Prisma" src="https://skillicons.dev/icons?i=nestjs,spring,prisma" /></td>
   </tr>
   <tr>
-    <td align="center"><b>📱 Mobile</b></td>
-    <td><img alt="Mobile" src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></td>
+    <td align="right"><b>Bases de datos</b></td>
+    <td><img alt="PostgreSQL, Redis, MySQL" src="https://skillicons.dev/icons?i=postgres,redis,mysql" />&nbsp; <sub><b>PostgreSQL</b> como principal</sub></td>
   </tr>
   <tr>
-    <td align="center"><b>🌐 Frontend</b></td>
-    <td><img alt="Frontend" src="https://skillicons.dev/icons?i=html,css,angular,vue,astro,ts" /></td>
+    <td align="right"><b>Frontend</b></td>
+    <td><img alt="Angular, Next.js, React, Astro, Vue, Tailwind" src="https://skillicons.dev/icons?i=angular,nextjs,react,astro,vue,tailwind,html,css" /></td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Infra & servicios</b></td>
-    <td><img alt="Infra" src="https://skillicons.dev/icons?i=docker,firebase" /></td>
+    <td align="right"><b>Mobile</b></td>
+    <td><img alt="Flutter, Dart, Android Studio" src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Herramientas</b></td>
-    <td><img alt="Herramientas" src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" /></td>
+    <td align="right"><b>Infra y CI</b></td>
+    <td><img alt="Docker, Nginx, GitHub Actions, Firebase" src="https://skillicons.dev/icons?i=docker,nginx,githubactions,firebase" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Herramientas</b></td>
+    <td><img alt="Git, GitHub, Postman, IntelliJ IDEA, VS Code" src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" /></td>
   </tr>
 </table>
 </div>
 
 <details>
-<summary><b>📖 Ver detalle por área</b></summary>
+<summary><b>Ver detalle por área</b></summary>
 <br/>
 
 | Área | Lo que domino |
 |:--|:--|
-| **Backend** | Diseño de **APIs RESTful** · Spring Boot + JPA + **Spring Security** · NestJS + TypeORM · autenticación **JWT** y roles · bases de datos relacionales (**MySQL**) |
-| **Mobile** | Apps híbridas con **Flutter** para Android e iOS · estado con **BLoC** · inyección de dependencias con `get_it` · consumo de APIs reales |
-| **Frontend** | **Angular**, **Vue** y **Astro** · Responsive Design y maquetación limpia · enfoque en **UI/UX** · semántica y accesibilidad |
-| **Infra** | **Docker** para empaquetar backends · **Firebase** como servicio complementario |
+| **Backend** | **NestJS** + Prisma / TypeORM · Spring Boot + JPA + **Spring Security** · APIs RESTful · autenticación **JWT**, roles y permisos · arquitecturas **multi-tenant** |
+| **Datos** | **PostgreSQL** como base principal · migraciones con Prisma · Redis para colas (BullMQ) y caché · MySQL en proyectos previos |
+| **Frontend** | **Angular**, **Next.js** y **Astro** con Tailwind · Responsive Design y maquetación limpia · enfoque en **UI/UX** |
+| **Mobile** | Apps híbridas con **Flutter** para Android e iOS · estado con **BLoC** · inyección de dependencias con `get_it` |
+| **Infra** | **Docker** y Docker Compose · Nginx · CI con **GitHub Actions** · Firebase como servicio complementario |
 
 </details>
 
 <br/>
 
-<!-- ===== CÓMO CONSTRUYO ===== -->
-## 🧩 Cómo construyo
+<!-- 03 · FOCO ACTUAL -->
+<img src="assets/sec-focus.svg" width="100%" alt="03 · Foco actual" />
 
-```mermaid
-flowchart LR
-    F["📱 Flutter"] --> API
-    W["🌐 Angular · Vue"] --> API
-    A["🚀 Astro"] --> API
-    API{{"🔐 API REST · JWT"}} --> S["☕ Spring Boot"]
-    API --> N["🟥 NestJS"]
-    S --> DB[("🗄️ MySQL")]
-    N --> DB
-
-    classDef cliente fill:#1a1b27,stroke:#7aa2f7,color:#c0caf5,stroke-width:2px;
-    classDef api fill:#3d59a1,stroke:#bb9af7,color:#ffffff,stroke-width:2px;
-    classDef back fill:#1a1b27,stroke:#9ece6a,color:#c0caf5,stroke-width:2px;
-    classDef db fill:#1a1b27,stroke:#7dcfff,color:#c0caf5,stroke-width:2px;
-    class F,W,A cliente;
-    class API api;
-    class S,N back;
-    class DB db;
-```
+<img src="assets/focus.svg" width="100%" alt="Foco actual: PostgreSQL como base de datos principal; aprendiendo microservicios, Clean Architecture y seguridad." />
 
 <br/>
 
-<!-- ===== LO QUE HAGO ===== -->
-## 🚀 Lo que hago
+<!-- 04 · CÓMO CONSTRUYO -->
+<img src="assets/sec-arch.svg" width="100%" alt="04 · Cómo construyo" />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ APIs REST</h4>
-      Java + Spring Boot y NestJS, con seguridad JWT, roles y persistencia en MySQL.
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 Apps móviles</h4>
-      Flutter conectado a backends reales, con BLoC y una arquitectura desacoplada.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Interfaces web</h4>
-      Landing pages y aplicaciones modernas, responsivas y pensadas para la experiencia de usuario.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧼 Código limpio</h4>
-      Patrones y principios de <b>Clean Code</b> para escribir software mantenible.
-    </td>
-  </tr>
-</table>
+<img src="assets/architecture.svg" width="100%" alt="Clientes Flutter, Angular/Next.js y Astro consumen una API REST con JWT atendida por backends Spring Boot y NestJS sobre PostgreSQL, Redis y MySQL." />
 
 <br/>
 
-<!-- ===== APRENDIENDO ===== -->
-## 🌱 Aprendiendo ahora
+<!-- 05 · SISTEMAS A MEDIDA Y SAAS (repos privados) -->
+<img src="assets/sec-systems.svg" width="100%" alt="05 · Sistemas a medida y SaaS" />
 
-![Microservicios](https://img.shields.io/badge/Arquitectura-Microservicios-1a1b27?style=for-the-badge&labelColor=7aa2f7&logo=docker&logoColor=white)
-![Seguridad](https://img.shields.io/badge/Aplicaciones-Seguridad%20avanzada-1a1b27?style=for-the-badge&labelColor=bb9af7&logo=springsecurity&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Dise%C3%B1o-Clean%20Architecture-1a1b27?style=for-the-badge&labelColor=7dcfff&logo=codeclimate&logoColor=white)
-![Hexagonal](https://img.shields.io/badge/Dise%C3%B1o-Arq.%20Hexagonal-1a1b27?style=for-the-badge&labelColor=9ece6a&logo=hexo&logoColor=white)
+<div align="center">
+<sub>🔒 Repositorios privados de proyectos reales · todos sobre <b>PostgreSQL</b></sub>
+<br/>
+<img src="assets/sys-soberon.svg" width="49%" alt="Barbería Soberón — POS, agenda y caja para barbería. NestJS, Prisma, PostgreSQL, Angular, Docker." />
+<img src="assets/sys-angeljesus.svg" width="49%" alt="Ángel Jesús Barbería — versión multi-sucursal. NestJS, Prisma, PostgreSQL, Angular, Docker." />
+<img src="assets/sys-bodega.svg" width="49%" alt="SISIT Bodega — POS y administración para bodegas y markets. NestJS, Prisma, PostgreSQL, Redis, Angular." />
+<img src="assets/sys-vet.svg" width="49%" alt="Vet SaaS — SaaS multi-tenant para clínicas veterinarias. NestJS, Prisma, PostgreSQL, Docker." />
+<img src="assets/sys-inversiones.svg" width="49%" alt="Inversiones Seguras — plataforma inmobiliaria. NestJS, TypeORM, PostgreSQL, Astro, React." />
+<img src="assets/sys-coconut.svg" width="49%" alt="Coconut E-commerce — e-commerce con Clean Architecture. NestJS, Prisma, PostgreSQL, Next.js, Angular." />
+<img src="assets/sys-odonto.svg" width="49%" alt="OdontoPro — gestión de clínica dental. NestJS, Prisma, PostgreSQL, Redis, Angular." />
+</div>
 
 <br/>
 
-<!-- ===== PROYECTOS ===== -->
-## 📂 Proyectos destacados
+<!-- 06 · PROYECTOS PÚBLICOS -->
+<img src="assets/sec-public.svg" width="100%" alt="06 · Proyectos públicos" />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🛒 <a href="https://github.com/alejandromacedopa/minimarketinnovateapi">Minimarket API</a></h3>
-      <p>API REST con CRUD para la gestión de un minimarket.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <img alt="último commit" src="https://img.shields.io/github/last-commit/alejandromacedopa/minimarketinnovateapi?style=flat-square&labelColor=1a1b27&color=7dcfff&label=%C3%BAltimo%20commit" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔐 <a href="https://github.com/alejandromacedopa/SecuritySpringCRUD">Spring Security CRUD</a></h3>
-      <p>Implementación de Spring Security sobre un CRUD, con vistas Thymeleaf.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <img alt="último commit" src="https://img.shields.io/github/last-commit/alejandromacedopa/SecuritySpringCRUD?style=flat-square&labelColor=1a1b27&color=7dcfff&label=%C3%BAltimo%20commit" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>📱 <a href="https://github.com/alejandromacedopa/demoviewshopify">Demo Shopify</a></h3>
-      <p>App móvil híbrida (iOS y Android): demo de una tienda online que consume una API NestJS con auth JWT.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/BLoC-1a1b27?style=flat-square&logo=dart&logoColor=7aa2f7" />
-        <img src="https://img.shields.io/badge/NestJS_API-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-      </p>
-      <img alt="último commit" src="https://img.shields.io/github/last-commit/alejandromacedopa/demoviewshopify?style=flat-square&labelColor=1a1b27&color=7dcfff&label=%C3%BAltimo%20commit" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧾 <a href="https://github.com/alejandromacedopa/backend-app-op-vip">Backend E-commerce</a></h3>
-      <p>Backend de un e-commerce administrativo con autenticación JWT.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeORM-1a1b27?style=flat-square&logo=typeorm&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <img alt="último commit" src="https://img.shields.io/github/last-commit/alejandromacedopa/backend-app-op-vip?style=flat-square&labelColor=1a1b27&color=7dcfff&label=%C3%BAltimo%20commit" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>💎 <a href="https://github.com/alejandromacedopa/oasispremiumbackend">Oasis Premium</a></h3>
-      <p>Proyecto full-stack: backend en NestJS y frontend en Vue.</p>
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <a href="https://github.com/alejandromacedopa/oasispremiumbackend">Backend</a> ·
-      <a href="https://github.com/alejandromacedopa/oasis-premiun-m-vue">Frontend</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🚀 Landing pages con Astro</h3>
-      <p>Sitios rápidos y responsivos para distintos negocios.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-        <img src="https://img.shields.io/badge/Responsive-1a1b27?style=flat-square&logo=css3&logoColor=1572B6" />
-      </p>
-      <a href="https://github.com/alejandromacedopa/tilapiasoft-landing">TilapiaSoft</a> ·
-      <a href="https://github.com/alejandromacedopa/casahome-landing">CasaHome</a> ·
-      <a href="https://github.com/alejandromacedopa/constructoraandina">Constructora Andina</a> ·
-      <a href="https://github.com/alejandromacedopa/parfumtppv1">Parfum</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<a href="https://github.com/alejandromacedopa/minimarketinnovateapi"><img src="assets/card-minimarket.svg" width="49%" alt="Minimarket API — Java, Spring Boot, JPA, MySQL" /></a>
+<a href="https://github.com/alejandromacedopa/SecuritySpringCRUD"><img src="assets/card-security.svg" width="49%" alt="Spring Security CRUD — Java, Spring Security, MySQL" /></a>
+<a href="https://github.com/alejandromacedopa/demoviewshopify"><img src="assets/card-shopify.svg" width="49%" alt="Demo Shopify — Flutter, BLoC, get_it, API NestJS" /></a>
+<a href="https://github.com/alejandromacedopa/backend-app-op-vip"><img src="assets/card-ecommerce.svg" width="49%" alt="Backend E-commerce — NestJS, TypeORM, MySQL, Docker" /></a>
+<a href="https://github.com/alejandromacedopa/oasispremiumbackend"><img src="assets/card-oasis.svg" width="49%" alt="Oasis Premium — NestJS y Vue" /></a>
+<a href="https://github.com/alejandromacedopa/tilapiasoft-landing"><img src="assets/card-astro.svg" width="49%" alt="Landing pages con Astro" /></a>
 
-<sub>➕ Más en mi perfil:
+<sub>
+<b>También:</b>
+<a href="https://github.com/alejandromacedopa/oasis-premiun-m-vue">Oasis (frontend Vue)</a> ·
+<a href="https://github.com/alejandromacedopa/casahome-landing">CasaHome</a> ·
+<a href="https://github.com/alejandromacedopa/constructoraandina">Constructora Andina</a> ·
+<a href="https://github.com/alejandromacedopa/parfumtppv1">Parfum</a> ·
 <a href="https://github.com/alejandromacedopa/AUNatural-Cosmetics">AUNatural Cosmetics</a> ·
-<a href="https://github.com/alejandromacedopa/backend-YF">YanaForum (backend)</a> ·
-<a href="https://github.com/alejandromacedopa/fronted-YF">YanaForum (frontend)</a> ·
-<a href="https://github.com/alejandromacedopa?tab=repositories">ver todos mis repositorios →</a></sub>
+<a href="https://github.com/alejandromacedopa/backend-YF">YanaForum</a> ·
+<a href="https://github.com/alejandromacedopa?tab=repositories"><b>ver todos →</b></a>
+</sub>
+</div>
 
 <br/>
 
-<!-- ===== TRAYECTORIA ===== -->
-## 🗺️ Mi trayectoria
+<!-- 07 · TRAYECTORIA -->
+<img src="assets/sec-timeline.svg" width="100%" alt="07 · Mi trayectoria" />
 
-```mermaid
-timeline
-    title Del primer CRUD a proyectos full-stack
-    2022 : YanaForum, backend en Spring Boot y frontend en Angular
-    2023 : E-commerce AUNatural Cosmetics : Spring Security aplicado a un CRUD
-    2024 : API REST para un minimarket : App móvil en Flutter con BLoC y API NestJS
-    2025 : Full-stack con NestJS y Vue : Backend e-commerce con Docker : Landing pages con Astro
-```
+<img src="assets/timeline.svg" width="100%" alt="Trayectoria 2022–2026: Spring Boot y Angular, Spring Security, Flutter y NestJS, full-stack con Vue y Astro, PostgreSQL con Prisma en sistemas SaaS." />
 
 <br/>
 
-<!-- ===== ACTIVIDAD ===== -->
-## 📊 Actividad en GitHub
+<!-- 08 · ACTIVIDAD -->
+<img src="assets/sec-activity.svg" width="100%" alt="08 · Actividad en GitHub" />
 
 <div align="center">
 
-<!-- 🐍 Se genera con el workflow .github/workflows/snake.yml (ver instrucciones) -->
+<!-- 🐍 Se genera con .github/workflows/snake.yml (ejecútalo una vez desde la pestaña Actions) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandromacedopa/alejandromacedopa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandromacedopa/alejandromacedopa/output/github-snake.svg" />
   <img alt="Serpiente comiéndose mis contribuciones" src="https://raw.githubusercontent.com/alejandromacedopa/alejandromacedopa/output/github-snake.svg" width="100%" />
 </picture>
 
-<br/>
-
-<img alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=alejandromacedopa&theme=tokyonight&hide_border=true&locale=es" />
+<img alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=alejandromacedopa&hide_border=false&locale=es&border_radius=16&background=0f1222&border=262a45&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7dcfff&dates=8b94bd" />
 
 <!--
   Tarjetas de github-readme-stats: la instancia pública de Vercel suele estar
-  saturada (error 503). Cuando responda, o si despliegas tu propia instancia,
-  descomenta este bloque.
+  saturada (error 503). Descomenta este bloque cuando responda o si despliegas
+  tu propia instancia.
 
 <br/>
 <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alejandromacedopa&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
@@ -293,20 +190,19 @@ timeline
 
 <br/>
 
-<!-- ===== CONTACTO ===== -->
-## 📫 ¿Hablamos?
-
-Si tienes una idea, un proyecto o simplemente quieres conversar de tecnología, escríbeme:
+<!-- 09 · CONTACTO -->
+<img src="assets/sec-contact.svg" width="100%" alt="09 · ¿Hablamos?" />
 
 <div align="center">
 
-<a href="mailto:macedoalejandro12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-macedoalejandro12%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7aa2f7" /></a>
+<p>Si tienes una idea, un proyecto o quieres conversar de tecnología, escríbeme.<br/>Siempre abierto a colaborar y a aprender de otros devs.</p>
 
-<br/><br/>
-
-🤝 *Siempre abierto a colaborar, compartir lo que sé y aprender de otros devs.*
+<a href="mailto:macedoalejandro12@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/alejandromacedop"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+<a href="https://github.com/alejandromacedopa"><img src="assets/btn-github.svg" height="52" alt="GitHub" /></a>
 
 </div>
 
-<!-- ===== FOOTER ===== -->
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=120&section=footer" />
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="Construyendo software, un commit a la vez." />

@@ -1,0 +1,40 @@
+# OPCIONAL — estadísticas propias que no se caen (reemplazan a github-readme-stats).
+#
+# Para activarlo:
+#   1. Crea un token clásico en GitHub → Settings → Developer settings →
+#      Personal access tokens (con permiso `repo` y `read:user`).
+#   2. En tu repo alejandromacedopa/alejandromacedopa → Settings → Secrets and
+#      variables → Actions → New repository secret:
+#        nombre: SUMMARY_GITHUB_TOKEN   valor: (tu token)
+#   3. Mueve este archivo a .github/workflows/profile-summary-cards.yml
+#   4. Actions → "GitHub-Profile-Summary-Cards" → Run workflow.
+#   5. Las tarjetas quedan en profile-summary-card-output/tokyonight/ y las
+#      puedes usar en el README, por ejemplo:
+#      ![Stats](./profile-summary-card-output/tokyonight/3-stats.svg)
+#      ![Lenguajes](./profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+#
+# NO subas el token al repo: solo va como secreto.
+
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # todos los días
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: -5 # Perú
+          AUTO_PUSH: true
