@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Alejandro Macedo — Software Developer" />
+<img src="assets/header.svg" width="100%" alt="Alejandro Macedo — Full Stack Developer" />
 
 <p>
-  Estudiante de <b>Ingeniería de Sistemas</b> en Perú, enfocado en construir<br/>
+  Desarrollador <b>Full Stack</b> en Perú, enfocado en construir<br/>
   <b>APIs sólidas</b> · <b>sistemas SaaS y a medida</b> · <b>experiencias web profesionales</b>
 </p>
 
@@ -27,7 +27,7 @@
 ```js
 const alejandro = {
   nombre:         "Alejandro Macedo Paredes",
-  carrera:        "Ingeniería de Sistemas",
+  rol:            "Desarrollador Full Stack",
   edad:           24,
   ubicacion:      "Perú 🇵🇪",
   idiomas:        ["Español (nativo)", "Inglés (intermedio)"],
@@ -36,7 +36,7 @@ const alejandro = {
   orm:            ["Prisma", "TypeORM", "JPA"],
   web:            ["Angular", "Next.js", "Astro", "Vue"],
   mobile:         ["Flutter · Dart"],
-  aprendiendo:    ["Microservicios", "Clean Architecture", "Seguridad avanzada"],
+  profundizando:  ["Microservicios", "Clean Architecture", "Seguridad avanzada"],
   motivacion:     "Resolver problemas con tecnología y aprender algo nuevo cada día",
   fueraDelCodigo: ["🏋️ Gimnasio", "⚽ Fútbol"],
 };
@@ -102,7 +102,7 @@ const alejandro = {
 <!-- 03 · FOCO ACTUAL -->
 <img src="assets/sec-focus.svg" width="100%" alt="03 · Foco actual" />
 
-<img src="assets/focus.svg" width="100%" alt="Foco actual: PostgreSQL como base de datos principal; aprendiendo microservicios, Clean Architecture y seguridad." />
+<img src="assets/focus.svg" width="100%" alt="Foco actual: PostgreSQL como base de datos principal; profundizando en microservicios, Clean Architecture y seguridad." />
 
 <br/>
 
@@ -119,13 +119,13 @@ const alejandro = {
 <div align="center">
 <sub>🔒 Repositorios privados de proyectos reales · todos sobre <b>PostgreSQL</b></sub>
 <br/>
-<img src="assets/sys-soberon.svg" width="49%" alt="Barbería Soberón — POS, agenda y caja para barbería. NestJS, Prisma, PostgreSQL, Angular, Docker." />
-<img src="assets/sys-angeljesus.svg" width="49%" alt="Ángel Jesús Barbería — versión multi-sucursal. NestJS, Prisma, PostgreSQL, Angular, Docker." />
-<img src="assets/sys-bodega.svg" width="49%" alt="SISIT Bodega — POS y administración para bodegas y markets. NestJS, Prisma, PostgreSQL, Redis, Angular." />
-<img src="assets/sys-vet.svg" width="49%" alt="Vet SaaS — SaaS multi-tenant para clínicas veterinarias. NestJS, Prisma, PostgreSQL, Docker." />
-<img src="assets/sys-inversiones.svg" width="49%" alt="Inversiones Seguras — plataforma inmobiliaria. NestJS, TypeORM, PostgreSQL, Astro, React." />
-<img src="assets/sys-coconut.svg" width="49%" alt="Coconut E-commerce — e-commerce con Clean Architecture. NestJS, Prisma, PostgreSQL, Next.js, Angular." />
-<img src="assets/sys-odonto.svg" width="49%" alt="OdontoPro — gestión de clínica dental. NestJS, Prisma, PostgreSQL, Redis, Angular." />
+<img src="assets/sys-barberia-pos.svg" width="49%" alt="Sistema POS para Barbería — agenda, caja y POS. NestJS, Prisma, PostgreSQL, Angular, Docker." />
+<img src="assets/sys-barbershop-multisucursal.svg" width="49%" alt="BarberShop Multi-sucursal — empresas y sucursales. NestJS, Prisma, PostgreSQL, Angular, Docker." />
+<img src="assets/sys-pos-bodegas.svg" width="49%" alt="POS para Bodegas — POS y administración para bodegas y markets. NestJS, Prisma, PostgreSQL, Redis, Angular." />
+<img src="assets/sys-veterinaria-saas.svg" width="49%" alt="SaaS para Veterinarias — SaaS multi-tenant para clínicas veterinarias. NestJS, Prisma, PostgreSQL, Docker." />
+<img src="assets/sys-plataforma-inmobiliaria.svg" width="49%" alt="Plataforma Inmobiliaria — terrenos, clientes, socios y asesores. NestJS, TypeORM, PostgreSQL, Astro, React." />
+<img src="assets/sys-ecommerce.svg" width="49%" alt="E-commerce Clean Architecture — catálogo, carrito, pedidos y pagos Yape. NestJS, Prisma, PostgreSQL, Next.js, Angular." />
+<img src="assets/sys-clinica-dental.svg" width="49%" alt="Sistema para Clínica Dental — pacientes, citas y odontograma. NestJS, Prisma, PostgreSQL, Redis, Angular." />
 </div>
 
 <br/>
@@ -139,14 +139,11 @@ const alejandro = {
 <a href="https://github.com/alejandromacedopa/demoviewshopify"><img src="assets/card-shopify.svg" width="49%" alt="Demo Shopify — Flutter, BLoC, get_it, API NestJS" /></a>
 <a href="https://github.com/alejandromacedopa/backend-app-op-vip"><img src="assets/card-ecommerce.svg" width="49%" alt="Backend E-commerce — NestJS, TypeORM, MySQL, Docker" /></a>
 <a href="https://github.com/alejandromacedopa/oasispremiumbackend"><img src="assets/card-oasis.svg" width="49%" alt="Oasis Premium — NestJS y Vue" /></a>
-<a href="https://github.com/alejandromacedopa/tilapiasoft-landing"><img src="assets/card-astro.svg" width="49%" alt="Landing pages con Astro" /></a>
+<a href="https://github.com/alejandromacedopa?tab=repositories&q=landing"><img src="assets/card-astro.svg" width="49%" alt="Landing pages con Astro" /></a>
 
 <sub>
 <b>También:</b>
 <a href="https://github.com/alejandromacedopa/oasis-premiun-m-vue">Oasis (frontend Vue)</a> ·
-<a href="https://github.com/alejandromacedopa/casahome-landing">CasaHome</a> ·
-<a href="https://github.com/alejandromacedopa/constructoraandina">Constructora Andina</a> ·
-<a href="https://github.com/alejandromacedopa/parfumtppv1">Parfum</a> ·
 <a href="https://github.com/alejandromacedopa/AUNatural-Cosmetics">AUNatural Cosmetics</a> ·
 <a href="https://github.com/alejandromacedopa/backend-YF">YanaForum</a> ·
 <a href="https://github.com/alejandromacedopa?tab=repositories"><b>ver todos →</b></a>
